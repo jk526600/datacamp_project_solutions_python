@@ -4,3 +4,4 @@
 
 ## Datacamp Project Solutions for Python
 
+I started my journey as a Data Scientist with Datacamp and here I would like to share my projects in Python on this platform. The projects were designed by experts and offer a great introduction to a variety of different data science use cases.
